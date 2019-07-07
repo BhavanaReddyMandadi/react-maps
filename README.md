@@ -3,7 +3,7 @@ Clone this project
 Create a GoogleAPI key from developers.google console and create a project in the console and enable the GeoCoding API, Maps Javascript API, Places API
 
 Step 1:
-Go into the cloned project directory and in cmd in the map directory type
+Go into the cloned project directory and in cmd in the react-maps directory type
 
 npm install
 
