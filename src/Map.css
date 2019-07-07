@@ -1,0 +1,16 @@
+.form {
+  display: inline-block;
+  height: 20px;
+  margin-left: 15px;
+  font-family: 'Roboto', sans-serif;
+}
+.mapform {
+   display: block;
+   margin-bottom: 55px;
+   padding: 10px 5px;
+   text-align: center;
+   font-family: 'Roboto', sans-serif;
+}
+.info{
+  font-family: 'Roboto', sans-serif;
+}
